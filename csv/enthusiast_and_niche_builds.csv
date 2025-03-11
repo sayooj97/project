@@ -1,42 +1,41 @@
-id,name,cpu,gpu,ram,storage,psu,cabinet,price (INR)
-1,Overclocking Enthusiast PC,Intel Core i9-14900KF,NVIDIA RTX 4090,64GB DDR5,2TB NVMe SSD,1000W,MSI MPG GUNGNIR 110R,550000
-2,Overclocking Enthusiast PC,AMD Ryzen 9 7950X3D,AMD Radeon RX 7900XTX,64GB DDR5,2TB NVMe SSD,1200W,Corsair iCUE 4000X RGB,520000
-3,Overclocking Enthusiast PC,Intel Core i7-13700KF,NVIDIA RTX 4080,32GB DDR5,1TB NVMe SSD,850W,NZXT H510 Elite,380000
-4,Overclocking Enthusiast PC,AMD Ryzen 9 7900X,NVIDIA RTX 4070 Ti,32GB DDR5,1TB NVMe SSD,850W,Lian Li PC-O11 Dynamic,340000
-5,Overclocking Enthusiast PC,Intel Core i5-13600K,AMD Radeon RX 6800 XT,32GB DDR4,1TB NVMe SSD,750W,Cooler Master MasterBox MB511,250000
-6,Silent PC Build,AMD Ryzen 7 7800X3D,NVIDIA RTX 4060 Ti,32GB DDR5,2TB NVMe SSD,650W,Fractal Design Define 7,180000
-7,Silent PC Build,Intel Core i9-13900,AMD Radeon RX 6750 XT,32GB DDR5,2TB NVMe SSD,750W,be quiet! Silent Base 802,210000
-8,Silent PC Build,AMD Ryzen 5 7600X,NVIDIA RTX 4060,16GB DDR5,1TB NVMe SSD,600W,Phanteks Eclipse P400A,140000
-9,Silent PC Build,Intel Core i5-13400F,AMD Radeon RX 6650 XT,16GB DDR4,1TB NVMe SSD,550W,Corsair 275R Airflow,120000
-10,Silent PC Build,AMD Ryzen 5 5600G,NVIDIA GTX 1650,16GB DDR4,1TB SSD,500W,NZXT H510,80000
-11,Mini ITX Compact PC,Intel Core i7-12700,NVIDIA RTX 4060 Ti,32GB DDR5,1TB NVMe SSD,650W,Cooler Master NR200P,190000
-12,Mini ITX Compact PC,AMD Ryzen 9 7900X,NVIDIA RTX 4070,32GB DDR5,1TB NVMe SSD,750W,Lian Li TU150,240000
-13,Mini ITX Compact PC,Intel Core i5-12600K,AMD Radeon RX 6700 XT,32GB DDR4,1TB NVMe SSD,650W,NZXT H210,170000
-14,Mini ITX Compact PC,AMD Ryzen 7 7700,NVIDIA RTX 4060,16GB DDR5,1TB NVMe SSD,550W,SilverStone SG13,150000
-15,Mini ITX Compact PC,Intel Core i3-13100F,AMD Radeon RX 6600,16GB DDR4,1TB SSD,500W,Thermaltake Core V1,110000
-16,Modding & Custom Water Cooling Build,Intel Core i9-13900K,NVIDIA RTX 4090,128GB DDR5,4TB NVMe SSD,1200W,Corsair 5000D Airflow,600000
-17,Modding & Custom Water Cooling Build,AMD Ryzen 9 7950X,NVIDIA RTX 4080,64GB DDR5,2TB NVMe SSD,1000W,Thermaltake Tower 900,550000
-18,Modding & Custom Water Cooling Build,Intel Core i7-13700K,AMD Radeon RX 7900XTX,64GB DDR5,2TB NVMe SSD,1000W,Lian Li PC-O11D EVO,500000
-19,Modding & Custom Water Cooling Build,AMD Ryzen 9 7900,NVIDIA RTX 4070 Ti,32GB DDR5,1TB NVMe SSD,850W,Cooler Master Cosmos C700M,450000
-20,Modding & Custom Water Cooling Build,Intel Core i5-13600K,AMD Radeon RX 6800 XT,32GB DDR4,1TB NVMe SSD,750W,Phanteks Enthoo 719,300000
-21,Budget Gaming PC,AMD Ryzen 5 5600X,NVIDIA RTX 3060,16GB DDR4,1TB SSD,550W,Deepcool Matrexx 50,90000
-22,Budget Gaming PC,Intel Core i5-12400F,AMD Radeon RX 6600,16GB DDR4,1TB SSD,500W,Cooler Master MasterBox Q300L,85000
-23,Budget Gaming PC,AMD Ryzen 7 5700X,NVIDIA RTX 3050,16GB DDR4,1TB SSD,600W,Thermaltake Versa H18,95000
-24,Budget Gaming PC,Intel Core i3-12100F,AMD Radeon RX 6500 XT,16GB DDR4,512GB SSD,450W,NZXT H210,75000
-25,Budget Gaming PC,AMD Ryzen 5 5500,NVIDIA GTX 1660 Super,16GB DDR4,1TB SSD,500W,Corsair Carbide Series 175R,80000
-26,Workstation Build,Intel Xeon W-2245,NVIDIA RTX A4000,64GB DDR4 ECC,2TB NVMe SSD,850W,Fractal Design Define 7 XL,350000
-27,Workstation Build,AMD Threadripper 3970X,NVIDIA RTX 3090,128GB DDR4 ECC,4TB NVMe SSD,1000W,Thermaltake View 71,600000
-28,Workstation Build,Intel Core i9-13900,NVIDIA RTX 4080,64GB DDR5,2TB NVMe SSD,1000W,Cooler Master HAF 700,500000
-29,Workstation Build,AMD Ryzen 9 7950X,NVIDIA RTX 4070 Ti,64GB DDR5,2TB NVMe SSD,850W,NZXT H710i,450000
-30,Workstation Build,Intel Core i7-13700K,AMD Radeon Pro W6800,32GB DDR5,1TB NVMe SSD,750W,Phanteks Eclipse P500A,350000
-31,Streaming PC,AMD Ryzen 7 7800X3D,NVIDIA RTX 4060 Ti,32GB DDR5,2TB NVMe SSD,650W,Corsair iCUE 5000X,200000
-32,Streaming PC,Intel Core i9-13900K,NVIDIA RTX 4070 Ti,64GB DDR5,4TB NVMe SSD,1000W,Lian Li O11 Dynamic EVO,400000
-33,Streaming PC,AMD Ryzen 9 7900,NVIDIA RTX 4080,64GB DDR5,2TB NVMe SSD,850W,NZXT H9 Flow,350000
-34,Streaming PC,Intel Core i7-12700F,AMD Radeon RX 6800 XT,32GB DDR4,1TB NVMe SSD,750W,Deepcool CK560,280000
-35,Streaming PC,AMD Ryzen 5 7600X,NVIDIA RTX 4060,32GB DDR5,1TB NVMe SSD,650W,Phanteks Eclipse G360A,180000
-36,Silent PC Build,AMD Ryzen 9 5950X,NVIDIA RTX 4070 Ti,64GB DDR4,2TB NVMe SSD,850W,Fractal Design Meshify 2,300000
-37,Mini ITX Compact PC,Intel Core i9-12900K,NVIDIA RTX 4080,32GB DDR5,2TB NVMe SSD,1000W,Cooler Master MasterBox NR200,330000
-38,Overclocking Enthusiast PC,AMD Ryzen 7 7800X3D,AMD Radeon RX 7900XTX,32GB DDR5,1TB NVMe SSD,850W,Thermaltake View 51,280000
-39,Streaming PC,Intel Core i5-13600K,NVIDIA RTX 3070 Ti,32GB DDR4,1TB NVMe SSD,750W,Corsair 4000D Airflow,220000
-40,Workstation Build,AMD Threadripper 5995WX,NVIDIA RTX 6000 Ada,128GB DDR5,8TB NVMe SSD,1500W,Lian Li V3000 Plus,950000
-
+id,name,cpu,gpu,ram,storage,psu,cabinet,price (INR),compatible_motherboard,motherboard_price (INR),motherboard_link
+1,Overclocking Enthusiast PC,Intel Core i9-14900KF,NVIDIA RTX 4090,64GB DDR5,2TB NVMe SSD,1000W,MSI MPG GUNGNIR 110R,550000,ASUS ROG Maximus Z790 Hero,59999,https://www.amazon.in/ROG-Maximus-Z790-Hero-Motherboard/dp/B0BHCJBQ4M
+2,Overclocking Enthusiast PC,AMD Ryzen 9 7950X3D,AMD Radeon RX 7900XTX,64GB DDR5,2TB NVMe SSD,1200W,Corsair iCUE 4000X RGB,520000,MSI MEG X670E GODLIKE,86990,https://www.amazon.in/MEG-X670E-MOTHERBOARD-GODLIKE-BUNDLE/dp/B0BVVLHB69
+3,Overclocking Enthusiast PC,Intel Core i7-13700KF,NVIDIA RTX 4080,32GB DDR5,1TB NVMe SSD,850W,NZXT H510 Elite,380000,MSI MPG Z790 CARBON WIFI,39999,https://www.amazon.in/MSI-MPG-Z790-Carbon-Motherboard/dp/B0BHC8LQBG
+4,Overclocking Enthusiast PC,AMD Ryzen 9 7900X,NVIDIA RTX 4070 Ti,32GB DDR5,1TB NVMe SSD,850W,Lian Li PC-O11 Dynamic,340000,ASUS ROG Strix X670E-E Gaming WiFi,45999,https://www.amazon.in/ASUS-X670E-E-Gaming-Motherboard-Heatsink/dp/B0BD33FVQW
+5,Overclocking Enthusiast PC,Intel Core i5-13600K,AMD Radeon RX 6800 XT,32GB DDR4,1TB NVMe SSD,750W,Cooler Master MasterBox MB511,250000,Gigabyte Z790 AORUS Elite AX,31999,https://www.amazon.in/GIGABYTE-Z790-AORUS-Elite-Motherboard/dp/B0BSHFN37C
+6,Silent PC Build,AMD Ryzen 7 7800X3D,NVIDIA RTX 4060 Ti,32GB DDR5,2TB NVMe SSD,650W,Fractal Design Define 7,180000,ASUS TUF Gaming B650-PLUS WiFi,22999,https://www.amazon.in/ASUS-TUF-B650-PLUS-Motherboard-DisplayPort/dp/B0BCR26XBB
+7,Silent PC Build,Intel Core i9-13900,AMD Radeon RX 6750 XT,32GB DDR5,2TB NVMe SSD,750W,be quiet! Silent Base 802,210000,MSI MAG B760 TOMAHAWK WIFI,24999,https://www.amazon.in/MSI-B760-Tomahawk-Motherboard-Generation/dp/B0BSJ5VBJW
+8,Silent PC Build,AMD Ryzen 5 7600X,NVIDIA RTX 4060,16GB DDR5,1TB NVMe SSD,600W,Phanteks Eclipse P400A,140000,Gigabyte B650 AORUS Elite AX,20490,https://www.amazon.in/GIGABYTE-B650-AORUS-Elite-Motherboard/dp/B0BDPX97MH
+9,Silent PC Build,Intel Core i5-13400F,AMD Radeon RX 6650 XT,16GB DDR4,1TB NVMe SSD,550W,Corsair 275R Airflow,120000,ASRock B760M Pro RS/D4,14999,https://www.amazon.in/ASRock-B760M-RS-Motherboard-Generation/dp/B0BPW1DMDR
+10,Silent PC Build,AMD Ryzen 5 5600G,NVIDIA GTX 1650,16GB DDR4,1TB SSD,500W,NZXT H510,80000,MSI B550-A PRO,12799,https://www.amazon.in/MSI-B550-PRO-Motherboard-Generation/dp/B08DLM6CJ7
+11,Mini ITX Compact PC,Intel Core i7-12700,NVIDIA RTX 4060 Ti,32GB DDR5,1TB NVMe SSD,650W,Cooler Master NR200P,190000,ASUS ROG Strix Z690-I Gaming WiFi,34990,https://www.amazon.in/ROG-Z690-I-Gaming-Motherboard-Bluetooth/dp/B09NNMLKXN
+12,Mini ITX Compact PC,AMD Ryzen 9 7900X,NVIDIA RTX 4070,32GB DDR5,1TB NVMe SSD,750W,Lian Li TU150,240000,ASRock X670E PHANTOM GAMING-ITX/TB4,35999,https://www.amazon.in/ASRock-X670E-PHANTOM-GAMING-ITX-TB4-MOTHERBOARD/dp/B0BGP2CQMB
+13,Mini ITX Compact PC,Intel Core i5-12600K,AMD Radeon RX 6700 XT,32GB DDR4,1TB NVMe SSD,650W,NZXT H210,170000,MSI MPG B660I GAMING EDGE WIFI,19999,https://www.amazon.in/MSI-MPG-B660I-Gaming-Motherboard/dp/B09QH5FH86
+14,Mini ITX Compact PC,AMD Ryzen 7 7700,NVIDIA RTX 4060,16GB DDR5,1TB NVMe SSD,550W,SilverStone SG13,150000,Gigabyte B650I AORUS Ultra,24990,https://www.amazon.in/GIGABYTE-B650I-AORUS-Ultra-Motherboard/dp/B0BDPSXS9Z
+15,Mini ITX Compact PC,Intel Core i3-13100F,AMD Radeon RX 6600,16GB DDR4,1TB SSD,500W,Thermaltake Core V1,110000,ASRock H610M-ITX/ac,10999,https://www.amazon.in/ASRock-H610M-ITX-Supports-Processors-Generation/dp/B09QXZM9BR
+16,Modding & Custom Water Cooling Build,Intel Core i9-13900K,NVIDIA RTX 4090,128GB DDR5,4TB NVMe SSD,1200W,Corsair 5000D Airflow,600000,ASUS ROG Maximus Z790 Formula,69999,https://www.amazon.in/ROG-Maximus-Z790-Formula-Motherboard/dp/B0BHJRYZZ1
+17,Modding & Custom Water Cooling Build,AMD Ryzen 9 7950X,NVIDIA RTX 4080,64GB DDR5,2TB NVMe SSD,1000W,Thermaltake Tower 900,550000,Gigabyte X670E AORUS XTREME,75999,https://www.amazon.in/GIGABYTE-X670E-AORUS-XTREME-Motherboard/dp/B0BF55ZLPW
+18,Modding & Custom Water Cooling Build,Intel Core i7-13700K,AMD Radeon RX 7900XTX,64GB DDR5,2TB NVMe SSD,1000W,Lian Li PC-O11D EVO,500000,ASUS ROG Strix Z790-E Gaming WiFi,47999,https://www.amazon.in/ASUS-Z790-E-Gaming-Motherboard-Bluetooth/dp/B0BHD5VCF5
+19,Modding & Custom Water Cooling Build,AMD Ryzen 9 7900,NVIDIA RTX 4070 Ti,32GB DDR5,1TB NVMe SSD,850W,Cooler Master Cosmos C700M,450000,MSI MPG X670E Carbon WiFi,41999,https://www.amazon.in/MSI-X670E-Carbon-Motherboard-Generation/dp/B0BGDPC1SQ
+20,Modding & Custom Water Cooling Build,Intel Core i5-13600K,AMD Radeon RX 6800 XT,32GB DDR4,1TB NVMe SSD,750W,Phanteks Enthoo 719,300000,ASRock Z790 Taichi,43999,https://www.amazon.in/ASRock-Z790-Taichi-Motherboard-Generation/dp/B0BHJGQ22N
+21,Budget Gaming PC,AMD Ryzen 5 5600X,NVIDIA RTX 3060,16GB DDR4,1TB SSD,550W,Deepcool Matrexx 50,90000,MSI B550M PRO-VDH WIFI,10899,https://www.amazon.in/MSI-B550M-PRO-VDH-Motherboard-Generation/dp/B08BCR4ZRS
+22,Budget Gaming PC,Intel Core i5-12400F,AMD Radeon RX 6600,16GB DDR4,1TB SSD,500W,Cooler Master MasterBox Q300L,85000,Gigabyte B660M DS3H DDR4,9999,https://www.amazon.in/GIGABYTE-B660M-DS3H-Motherboard-Generation/dp/B09QH5THKF
+23,Budget Gaming PC,AMD Ryzen 7 5700X,NVIDIA RTX 3050,16GB DDR4,1TB SSD,600W,Thermaltake Versa H18,95000,ASUS TUF Gaming B550M-PLUS,12999,https://www.amazon.in/ASUS-Gaming-B550M-PLUS-Motherboard-Socket/dp/B08BCSXWGX
+24,Budget Gaming PC,Intel Core i3-12100F,AMD Radeon RX 6500 XT,16GB DDR4,512GB SSD,450W,NZXT H210,75000,ASRock B660M-HDV,8499,https://www.amazon.in/ASRock-B660M-HDV-Motherboard-Generation/dp/B09NPCZ25V
+25,Budget Gaming PC,AMD Ryzen 5 5500,NVIDIA GTX 1660 Super,16GB DDR4,1TB SSD,500W,Corsair Carbide Series 175R,80000,Gigabyte A520M DS3H,6799,https://www.amazon.in/GIGABYTE-A520M-Motherboard-Realtek-Connector/dp/B08HGYHSVC
+26,Workstation Build,Intel Xeon W-2245,NVIDIA RTX A4000,64GB DDR4 ECC,2TB NVMe SSD,850W,Fractal Design Define 7 XL,350000,Supermicro X11SPA-TF,48999,https://www.amazon.in/Supermicro-Motherboard-MBD-X11SPA-TF-O-Socket-Supports/dp/B07SMLZ2F5
+27,Workstation Build,AMD Threadripper 3970X,NVIDIA RTX 3090,128GB DDR4 ECC,4TB NVMe SSD,1000W,Thermaltake View 71,600000,ASUS ROG Zenith II Extreme Alpha,89999,https://www.amazon.in/Asus-Extreme-Threadripper-Gaming-Motherboard/dp/B086QMT2WN
+28,Workstation Build,Intel Core i9-13900,NVIDIA RTX 4080,64GB DDR5,2TB NVMe SSD,1000W,Cooler Master HAF 700,500000,MSI PRO Z790-A WIFI,28999,https://www.amazon.in/MSI-Z790-Motherboard-Processors-Generation/dp/B0BHJ8Q8VT
+29,Workstation Build,AMD Ryzen 9 7950X,NVIDIA RTX 4070 Ti,64GB DDR5,2TB NVMe SSD,850W,NZXT H710i,450000,ASUS ProArt X670E-CREATOR WIFI,47999,https://www.amazon.in/ASUS-X670E-CREATOR-Motherboard-Thunderbolt/dp/B0BD3BLWQ5
+30,Workstation Build,Intel Core i7-13700K,AMD Radeon Pro W6800,32GB DDR5,1TB NVMe SSD,750W,Phanteks Eclipse P500A,350000,Gigabyte Z790 AERO G,35999,https://www.amazon.in/GIGABYTE-Z790-AERO-Rev-Intel/dp/B0BSF97CB4
+31,Streaming PC,AMD Ryzen 7 7800X3D,NVIDIA RTX 4060 Ti,32GB DDR5,2TB NVMe SSD,650W,Corsair iCUE 5000X,200000,MSI MAG B650 TOMAHAWK WIFI,22999,https://www.amazon.in/MSI-MAG-B650-Tomahawk-Motherboard/dp/B0BJS45WML
+32,Streaming PC,Intel Core i9-13900K,NVIDIA RTX 4070 Ti,64GB DDR5,4TB NVMe SSD,1000W,Lian Li O11 Dynamic EVO,400000,Gigabyte Z790 AORUS MASTER,52990,https://www.amazon.in/GIGABYTE-Z790-Master-Motherboard-Processors/dp/B0BHJGB2MG
+33,Streaming PC,AMD Ryzen 9 7900,NVIDIA RTX 4080,64GB DDR5,2TB NVMe SSD,850W,NZXT H9 Flow,350000,ASRock X670E Steel Legend WiFi,32999,https://www.amazon.in/ASRock-X670E-STEEL-LEGEND-WIFI/dp/B0BDRYB1KT
+34,Streaming PC,Intel Core i7-12700F,AMD Radeon RX 6800 XT,32GB DDR4,1TB NVMe SSD,750W,Deepcool CK560,280000,ASUS TUF Gaming Z690-Plus WiFi D4,25999,https://www.amazon.in/ASUS-Gaming-Z690-Plus-Motherboard-DisplayPort/dp/B09J1R58QY
+35,Streaming PC,AMD Ryzen 5 7600X,NVIDIA RTX 4060,32GB DDR5,1TB NVMe SSD,650W,Phanteks Eclipse G360A,180000,Gigabyte B650 Gaming X AX,17499,https://www.amazon.in/GIGABYTE-B650-GAMING-Motherboard-Computer/dp/B0BDPSJYF5
+36,Silent PC Build,AMD Ryzen 9 5950X,NVIDIA RTX 4070 Ti,64GB DDR4,2TB NVMe SSD,850W,Fractal Design Meshify 2,300000,MSI MAG X570S TOMAHAWK MAX WIFI,26999,https://www.amazon.in/MSI-MAG-X570S-TOMAHAWK-Motherboard/dp/B09B1WFXMY
+37,Mini ITX Compact PC,Intel Core i9-12900K,NVIDIA RTX 4080,32GB DDR5,2TB NVMe SSD,1000W,Cooler Master MasterBox NR200,330000,GIGABYTE Z690I AORUS Ultra Plus,29999,https://www.amazon.in/GIGABYTE-Z690I-AORUS-Ultra-Plus/dp/B09ZVNPGWP
+38,Overclocking Enthusiast PC,AMD Ryzen 7 7800X3D,AMD Radeon RX 7900XTX,32GB DDR5,1TB NVMe SSD,850W,Thermaltake View 51,280000,ASUS ROG STRIX B650E-F GAMING WIFI,27490,https://www.amazon.in/ASUS-B650E-F-Gaming-Motherboard-Bluetooth/dp/B0BCWDM77F
+39,Streaming PC,Intel Core i5-13600K,NVIDIA RTX 3070 Ti,32GB DDR4,1TB NVMe SSD,750W,Corsair 4000D Airflow,220000,MSI PRO Z790-P WIFI DDR4,22899,https://www.amazon.in/MSI-PRO-Z790-P-Motherboard-Generation/dp/B0BPC5RW5F
+40,Workstation Build,AMD Threadripper 5995WX,NVIDIA RTX 6000 Ada,128GB DDR5,8TB NVMe SSD,1500W,Lian Li V3000 Plus,950000,ASRock WRX80 Creator,84999,https://www.amazon.in/ASRock-WRX80-Creator-Motherboard-Threadripper/dp/B08ZYW1HFB
